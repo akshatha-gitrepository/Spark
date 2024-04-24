@@ -1,0 +1,16 @@
+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
+
+git remote add origin https://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@github.com/Aksha-Acharya/Java8
+https://github.com/Aksha-Acharya/Java8.git
+git remote add origin https://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@github.com/Aksha-Acharya/Java8
+https://github.com/Aksha-Acharya/haf-task-java8.git
+
+git config --system http.sslcainfo "C:\Users\seetha\AppData\Local\Programs\Git\usr\ssl\certs\ca-bundle.crt"
+995566
+%^&&_099568
+git fetch origin main
+git rebase origin/main
+git push origin main
+git push -f origin main
+git config --global http.sslVerify false
+git remote set-url origin git@github.com:username/repo.git
